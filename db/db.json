@@ -1,10 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Wash Car before Friday",
+        "text": "take to self wash",
+        "id": "e01325ab-32ab-4608-8e34-bb9a177795f3"
     },
     {
-        "title": "Test Note Title",
-        "text": "Test Note Text"
+        "title": "Buy groceries before Sunday",
+        "text": "Milk and cookies are on sale this week so get them before the sale is over",
+        "id": "2a5f57ca-ec6c-45de-8020-2331f30fc9a1"
     }
 ]
